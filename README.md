@@ -14,7 +14,6 @@ MySQL: El servidor de base de datos. Asegúrate de que el servicio esté en ejec
 
 #Paso 2: Clonar el Repositorio
 Obtén una copia local del proyecto desde GitHub.
-
 # Clona el repositorio desde la URL proporcionada
 git clone https://github.com/Junixza/bienesPatrimoniales.git
 
