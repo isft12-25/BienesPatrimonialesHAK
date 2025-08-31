@@ -12,7 +12,7 @@ Python: Versión 3.10 o superior. Puedes verificar tu versión con python --vers
 Git: Para clonar el repositorio. Puedes verificarlo con git --version.
 MySQL: El servidor de base de datos. Asegúrate de que el servicio esté en ejecución.
 
-Paso 2: Clonar el Repositorio
+#Paso 2: Clonar el Repositorio
 Obtén una copia local del proyecto desde GitHub.
 
 # Clona el repositorio desde la URL proporcionada
@@ -20,6 +20,7 @@ git clone https://github.com/Junixza/bienesPatrimoniales.git
 
 # Navega al directorio del proyecto
 cd bienesPatrimoniales
+
 Paso 3: Configurar el Entorno Virtual
 Para mantener las dependencias del proyecto aisladas, crearemos un entorno virtual.
 
