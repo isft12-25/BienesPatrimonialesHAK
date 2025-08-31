@@ -11,6 +11,7 @@ Antes de empezar, verifica que tienes instalado el siguiente software:
 Python: Versión 3.10 o superior. Puedes verificar tu versión con python --version.
 Git: Para clonar el repositorio. Puedes verificarlo con git --version.
 MySQL: El servidor de base de datos. Asegúrate de que el servicio esté en ejecución.
+
 Paso 2: Clonar el Repositorio
 Obtén una copia local del proyecto desde GitHub.
 
